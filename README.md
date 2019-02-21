@@ -1,3 +1,5 @@
 # rsschool-2019Q1-html-css
-Rolling Scope School
-# rsschool-2019Q1-codeacademy
+
+Andrew Kolesnikov
+HTML CSS Basics: https://www.codecademy.com/users/AndrewKolesnikov/achievements
+HTML Academy: https://htmlacademy.ru/profile/korol
